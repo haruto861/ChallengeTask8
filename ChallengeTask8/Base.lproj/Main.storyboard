@@ -36,8 +36,8 @@
                     </view>
                     <tabBarItem key="tabBarItem" title="Item 2" id="ZUb-zn-aiq"/>
                     <connections>
-                        <outlet property="resultLabel2" destination="rxc-Zu-KIr" id="hoW-Wi-qa5"/>
-                        <outlet property="slider2" destination="cob-Yd-i0g" id="0AV-o9-f2U"/>
+                        <outlet property="resultLabel" destination="rxc-Zu-KIr" id="WKT-rL-ELr"/>
+                        <outlet property="slider" destination="cob-Yd-i0g" id="bgU-bS-9pL"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Szp-3E-gVo" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
